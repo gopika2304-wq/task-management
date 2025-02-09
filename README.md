@@ -1,32 +1,32 @@
-# [Project Name] 🎯
+# task management🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: triad
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: gopika e -SIMAT
+- Member 2: amrita priya -SIMAT
+- Member 3: archana - SIMAT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+smart task manager 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+many people struggle with managing their daily task, remainders and deadlines existing task management tools can be overwhelming with too many features and complexity
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+create a simple intuitive task management application that uses LLM to help user manage their tasks more effectively
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- python
+- flask  
 - [Libraries used]
 - [Tools used]
 
